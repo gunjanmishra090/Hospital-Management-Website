@@ -1,5 +1,4 @@
 # 🏥 Hospital Management Website
-- A responsive and user-friendly Hospital Management System (HMS) website developed as a minor project for the Bachelor of Computer Applications (BCA) program at Chanderprabhu Jain College of Higher Studies & School of Law, affiliated with GGSIPU.
 - This project aims to streamline hospital administrative tasks such as patient registration, appointment scheduling, medical record management, and departmental coordination.
 
 # 🧠 Project Overview
