@@ -7,7 +7,7 @@ The Hospital Management Website is a browser-based application that allows Admin
 - Doctor availability
 - Appointment scheduling
 - Departmental coordination
-- Contact and communication details
+- Contact and communication details.
 - It improves efficiency by digitizing the manual hospital record system, reducing paper usage, and enhancing data accessibility and security.
 
 # 🚀 Features
